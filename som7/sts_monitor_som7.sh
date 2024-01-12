@@ -1,4 +1,4 @@
-# script name: sts_monitor_som.sh
+# script name: sts_monitor_som7.sh
 # use for som v7
 # use for monitor sts server status
 
